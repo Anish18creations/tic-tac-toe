@@ -1,0 +1,157 @@
+.container {
+    width: 416px;
+    height: 748px;
+    margin: auto;
+    border-radius: 43px;
+    background: #192A32;
+}
+
+.inner_container {
+    width: 307px;
+    height: 414px;
+    margin-top: 167px;
+    margin-left: 65px;
+}
+
+span img {
+    width: 50px;
+    height: 50px;
+    margin-top: 150px;
+}
+
+.row_1 {
+    margin-left: 90px;
+}
+
+.pick_player {
+    width: 307px;
+    height: 154px;
+    margin-top: 20px;
+    border-radius: 7px;
+    background: #1F3540;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}
+
+.text {
+    font-family: DM Sans, 'sans-serif';
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 60px;
+}
+
+.choice {
+    width: 276px;
+    height: 45px;
+    margin-top: 25px;
+    margin-left: 15px;
+    border-radius: 5px;
+    background: #192A32;
+    box-shadow: 0px 4px 4px 0px #00000040;
+}
+
+button:hover {
+    background: #D9D9D9;
+}
+
+.colour {
+    background: #192A32;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: 1000;
+    margin-left: 20px;
+    color: #D9D9D9;
+    border-style: none;
+}
+
+.colour:hover {
+    background: #192A32;
+}
+
+.oval {
+    width: 135px;
+    height: 50px;
+    font-size: 35px;
+    font-weight: 800;
+    color: #192A32;
+    border-style: none;
+    background: #D9D9D9;
+}
+
+.cpu {
+    width: 307px;
+    height: 40px;
+    margin-top: 38px;
+    border-radius: 5px;
+    background: #F2B237;
+    font-family: DM Sans, 'sans-serif';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #192A32;
+    border: none;
+}
+
+.cpu:hover {
+    background: #F2B237;
+}
+
+.human {
+    width: 307px;
+    height: 40px;
+    margin-top: 14px;
+    border-radius: 5px;
+    font-family: DM Sans, 'sans-serif';
+    font-size: 16.06px;
+    font-weight: 800;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #192A32;
+    background: #32C4C3;
+    border: none;
+}
+
+.human:hover {
+    background: #32C4C3;
+}
+
+.friend {
+    width: 225px;
+    height: 33px;
+    margin-top: 40px;
+    margin-left: 43px;
+    border-radius: 5px;
+    background: #F2B237;
+    font-family: DM Sans, 'sans-serif';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #192A32;
+    border: none;
+}
+
+.friend:hover {
+    background: #F2B237;
+}
+
+.txt {
+    background: #192A32;
+    font-family: DM Sans, 'sans-serif';
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #F2B237;
+    width: 220px;
+    height: 41px;
+    border-radius: 10px;
+}
